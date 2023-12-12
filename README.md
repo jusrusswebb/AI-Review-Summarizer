@@ -16,8 +16,7 @@ Run summaryGUI.py
 
 Input a URL from any Amazon product 
 
-![Image](""https://github.com/jusrusswebb/review-summarizer/assets/122849382/09a75f00-be89-4d78-b93a-df046fee322e"")
-
+<img width="485" alt="guipic" src="https://github.com/jusrusswebb/review-summarizer/assets/122849382/544fff56-227e-4c04-ba8b-a31c4d4899f4">
 
 
 
