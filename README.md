@@ -8,3 +8,21 @@ Install [Langchain](https://github.com/langchain-ai/langchain) and other require
 
 Modify `constants.py.default` to use your own [OpenAI API key](https://platform.openai.com/account/api-keys), and rename it to `constants.py`.
 
+## Example usage 
+
+Run summaryGUI.py 
+
+`python3 summaryGUI.py`
+
+Input a URL from any Amazon product 
+
+![]("https://github.com/jusrusswebb/review-summarizer/assets/122849382/32f4d413-08a6-478c-a856-33b7ba8330fe")
+
+
+
+
+
+
+
+
+
