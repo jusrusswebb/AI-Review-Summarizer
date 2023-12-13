@@ -14,11 +14,11 @@ Run summaryGUI.py
 
 `python3 summaryGUI.py`
 
-Input a URL from any Amazon product 
+Input a URL from any Amazon product  
 
 <img width="485" alt="guipic" src="https://github.com/jusrusswebb/review-summarizer/assets/122849382/544fff56-227e-4c04-ba8b-a31c4d4899f4">
 
-
+<br><br>
 
 Lets see what the reviews of this [INSE Cordless Vacuum](https://www.amazon.com/INSE-Cordless-Lightweight-Rechargeable-Powerful/dp/B0CHFBC9B5/ref=sr_1_3?crid=2DPT79P1ZLO02&keywords=INSE+Cordless+Vacuum&qid=1702424870&s=home-garden&sprefix=inse+cordless+vacuum%2Cgarden%2C184&sr=1-3) have to say... 
 
